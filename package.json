@@ -1,0 +1,26 @@
+{
+  "name": "W12D02_MySQL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arefallabadi/W12D02_MySQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arefallabadi/W12D02_MySQL/issues"
+  },
+  "homepage": "https://github.com/arefallabadi/W12D02_MySQL#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5"
+  }
+}
